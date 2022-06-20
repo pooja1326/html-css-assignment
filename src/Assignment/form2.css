@@ -1,0 +1,70 @@
+body {
+    background-image: url("assest/images\ \(1\).jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .main{
+    text-align: center;
+
+   }
+   h1.groove{
+    border-style: ridge;
+    text-align: center;
+    background-color: blue;
+    position: sticky ; 
+    top:0;
+   }
+   .register-form{
+     margin: 5px;
+    background-color: aliceblue;
+   /* padding-left: 80px; */
+   text-align: left;
+
+
+   }
+  .corner{
+    width:210px;
+    border-radius: 10px
+   } 
+   .box{
+    background-color: blueviolet;
+
+   }
+  /* .ch1{
+    margin-left: -112px;
+   } */
+.checkbox{
+text-align: center;
+}
+th{
+    margin-left: 100px;
+}
+.submit{
+    width:300px;
+    border-radius: 10px;
+    
+}
+.fname{
+    text-align: center;
+}
+.container{
+    width: 465px;
+    border: 2px solid black;
+    margin: 300px;
+    margin-left: 480px;
+    margin-top: auto;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+}
+input{
+    align-items: center;
+    color: grey;
+}
+input[class=check]{
+    align-items: center;
+}
+.sub{
+    text-align: center;
+}
